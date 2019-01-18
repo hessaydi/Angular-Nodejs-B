@@ -9,7 +9,7 @@
   "keywords": [
     "NodeJs-Express-RestAPIs-SequelizeJs-CRUD-PostgreSQL"
   ],
-  "author": "JSA",
+  "author": "H.essaydi",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.4",
